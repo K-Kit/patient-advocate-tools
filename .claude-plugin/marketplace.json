@@ -1,0 +1,17 @@
+{
+  "name": "patient-advocate-tools",
+  "owner": {
+    "name": "K-Kit"
+  },
+  "metadata": {
+    "description": "Tools a patient advocate supplies to clients for making sense of medical documents."
+  },
+  "plugins": [
+    {
+      "name": "patient-advocate",
+      "source": "./plugins/patient-advocate",
+      "description": "Turn medical documents into a concise clinician brief or a plain-language patient explainer.",
+      "version": "0.1.0"
+    }
+  ]
+}

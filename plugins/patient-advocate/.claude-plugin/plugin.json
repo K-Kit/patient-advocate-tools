@@ -1,0 +1,9 @@
+{
+  "name": "patient-advocate",
+  "version": "0.1.0",
+  "description": "Turn medical documents into a concise clinician brief (TL;DR + full) or a plain-language patient explainer.",
+  "author": {
+    "name": "K-Kit"
+  },
+  "keywords": ["healthcare", "patient-advocacy", "medical-records", "summarization", "plain-language"]
+}
